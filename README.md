@@ -40,7 +40,7 @@ The following EXTRA features are implemented:
 
 I have chosen to duplicate the following layout from the **BeastFlix** app:
 
-<img src='http://example.com/link/to/your/image.png' title='Chosen Screenshot' width='' alt='Chosen Screenshot' />
+<img src='https://i.imgur.com/wxDALQH.gif' title='Chosen Screenshot' width='' alt='Chosen Screenshot' />
 
 ## Video Demo
 
